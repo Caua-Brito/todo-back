@@ -1,0 +1,12 @@
+{
+    "name": "devcaua/todo-back",
+    "require": {
+        "coffeecode/router": "^1.0"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Source\\": "source/"
+        }
+    }
+}
